@@ -1,6 +1,6 @@
 # openxclip
 ## Problem
-In a heterogen business environment people send you paths from macs, windows or smb-shares all off them are pointer somewhere to to infrastruktur.
+In a heterogen business environment people send you paths from macs, windows or smb-shares. All off them are pointing somewhere to to infrastruktur.
 This script tries to handle all of them.
 So it can open smb-shares from linux/mac and mounted networkdrives from windows (if it is correctly mapped).
 As input it used the clipboard and for them who are old enough, it uses the [primary selection](https://tronche.com/gui/x/icccm/sec-2.html#s-2.6.1)
